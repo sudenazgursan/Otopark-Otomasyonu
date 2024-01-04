@@ -1,0 +1,8 @@
+C:\Users\mdogu\Desktop\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\bin\Debug\Sudenaz_Gürsan_22MY03039.exe.config
+C:\Users\mdogu\Desktop\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\bin\Debug\Sudenaz_Gürsan_22MY03039.exe
+C:\Users\mdogu\Desktop\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\bin\Debug\Sudenaz_Gürsan_22MY03039.pdb
+C:\Users\mdogu\Desktop\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\obj\Debug\Sudenaz_Gürsan_22MY03039.csproj.AssemblyReference.cache
+C:\Users\mdogu\Desktop\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\obj\Debug\Sudenaz_Gürsan_22MY03039.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdogu\Desktop\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\obj\Debug\Sudenaz_Gürsan_22MY03039.csproj.CoreCompileInputs.cache
+C:\Users\mdogu\Desktop\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\obj\Debug\Sudenaz_Gürsan_22MY03039.exe
+C:\Users\mdogu\Desktop\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\Sudenaz_Gürsan_22MY03039\obj\Debug\Sudenaz_Gürsan_22MY03039.pdb
